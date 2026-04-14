@@ -1,6 +1,6 @@
 # playwright-auth-state
 
-[![CI](https://github.com/example/playwright-auth-state/actions/workflows/ci.yml/badge.svg)](https://github.com/example/playwright-auth-state/actions/workflows/ci.yml)
+[![CI](https://github.com/itoshota9029/sterriar-sample-playwright-auth-state-patterns/actions/workflows/ci.yml/badge.svg)](https://github.com/itoshota9029/sterriar-sample-playwright-auth-state-patterns/actions/workflows/ci.yml)
 
 A Python library for managing Playwright authentication state with automatic save, refresh, and expiration detection.
 
